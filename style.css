@@ -1,0 +1,70 @@
+body {
+    margin:0;
+    padding: 0;
+}
+
+footer div.row {
+    margin: 0 auto;
+    padding: 20px;
+    background-color: skyblue;
+}
+
+footer input {
+    margin: 10px 0;
+}
+
+footer .btn {
+    padding: 10px 0;
+}
+
+address p {
+    line-height: 0.3;
+    letter-spacing: 1pt;
+}
+
+.carousel-item .btn {
+    padding: 10px 60px;
+}
+
+/* nav */
+.navbar-brand {
+    font-family: Lobster;
+}
+
+.lead {
+    margin: 40px;
+}
+
+.card {
+    margin: 20px;
+}
+
+#actionButtons button {
+    padding: 10px 60px;
+}
+
+/* hero */
+#hero em {
+    font-family: Lobster;
+}
+
+address {
+    margin-bottom: 40px;
+}
+
+#reviews {
+    padding: 20px;
+    background-color: steelblue;
+}
+
+#reviews div {
+    padding: 10px 20px;
+}
+
+#bestSellers {
+    padding: 20px;
+}
+
+#categories h3 {
+    margin-left: 20px;
+}
