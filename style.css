@@ -3,10 +3,14 @@ body {
     padding: 0;
 }
 
+footer {
+    padding: 10px 0;
+    background-color: skyblue;
+}
+
 footer div.row {
     margin: 0 auto;
     padding: 20px;
-    background-color: skyblue;
 }
 
 footer input {
@@ -20,6 +24,10 @@ footer .btn {
 address p {
     line-height: 0.3;
     letter-spacing: 1pt;
+}
+
+a, a:visited {
+    color: rgb(36, 33, 33);
 }
 
 .carousel-item .btn {
@@ -37,6 +45,7 @@ address p {
 
 .card {
     margin: 20px;
+    padding: 20px;
 }
 
 #actionButtons button {
